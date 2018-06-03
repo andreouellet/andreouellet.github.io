@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "DevOps Engineer\n\n\nProfile\n\n\nAn accomplished Build Specialist (Release Engineer) specializing in developing and maturing the capability of Continuous Integration and Release Automation for modern Web Applications and Services.   Passionate about  DevOps and Continuous Delivery methodologies.  Extensive experience in implementation, administration and support of Web Application Hosting Products, SCM Tools and Software Development Tools in conjunction with the Software Development Lifecycle. \n\n\nExperience\n\n\nRelease Automation Architect - Medavie Bluecross - 2013 to 2017\n\n\nEstablishing and documenting standards and procedures for continuous integration and release automation based on industry best practices and integrating them into technology solutions. Engineering separate and unique functions of SCM to fit within existing culture and practices. Designing, installing and maintaining scm technology products. Automating and supporting developers with install, configuration and usage of Integrated Development Environment (IDE) technology. Performing audit, analysis and troubleshooting activities in all areas related to application delivery.\n\n\nWeb Systems Administrator - Medavie Bluecross - 2011 to 2013\n\n\nImplementation, configuration and administration of various Application Server, Security Infrastructure and Portal Platform Environments (IBM Websphere/Tivoli Stack, Sun Glassfish Portfolio, Oracle IAS, Apache HTTP and Tomcat).  Completing projects related to corporate strategic vision for adoption of new SOA Platform.  Performing Lifecycle Management Projects to meet requirements for stability, security and vendor support. Performed operational and on-call pager rotation duties.\n\n\nSoftware Configuration Management Analyst - Medavie Bluecross - 2006 to 2011\n\n\nLead the evaluation, design, installation and administration of new SCM Technology Solution (Subversion, Jira, Hudson, Maven, Nexus).  Integrated SCM Technology with development and delivery of SOA applications and services.  Maintaining documentation and completing projects related to improving and automating the use of processes and technologies based on industry standards and best practices. Performed operational and on-call pager rotation duties consisting of managing the configuration and ensuring reproducibility of over 90 in house developed applications and deployment of these apps into a large variety of platforms and environments.",
+            "title": "Resume"
+        },
+        {
+            "location": "/#devops-engineer",
+            "text": "",
+            "title": "DevOps Engineer"
+        },
+        {
+            "location": "/#profile",
+            "text": "An accomplished Build Specialist (Release Engineer) specializing in developing and maturing the capability of Continuous Integration and Release Automation for modern Web Applications and Services.   Passionate about  DevOps and Continuous Delivery methodologies.  Extensive experience in implementation, administration and support of Web Application Hosting Products, SCM Tools and Software Development Tools in conjunction with the Software Development Lifecycle.",
+            "title": "Profile"
+        },
+        {
+            "location": "/#experience",
+            "text": "",
+            "title": "Experience"
+        },
+        {
+            "location": "/#release-automation-architect-medavie-bluecross-2013-to-2017",
+            "text": "Establishing and documenting standards and procedures for continuous integration and release automation based on industry best practices and integrating them into technology solutions. Engineering separate and unique functions of SCM to fit within existing culture and practices. Designing, installing and maintaining scm technology products. Automating and supporting developers with install, configuration and usage of Integrated Development Environment (IDE) technology. Performing audit, analysis and troubleshooting activities in all areas related to application delivery.",
+            "title": "Release Automation Architect - Medavie Bluecross - 2013 to 2017"
+        },
+        {
+            "location": "/#web-systems-administrator-medavie-bluecross-2011-to-2013",
+            "text": "Implementation, configuration and administration of various Application Server, Security Infrastructure and Portal Platform Environments (IBM Websphere/Tivoli Stack, Sun Glassfish Portfolio, Oracle IAS, Apache HTTP and Tomcat).  Completing projects related to corporate strategic vision for adoption of new SOA Platform.  Performing Lifecycle Management Projects to meet requirements for stability, security and vendor support. Performed operational and on-call pager rotation duties.",
+            "title": "Web Systems Administrator - Medavie Bluecross - 2011 to 2013"
+        },
+        {
+            "location": "/#software-configuration-management-analyst-medavie-bluecross-2006-to-2011",
+            "text": "Lead the evaluation, design, installation and administration of new SCM Technology Solution (Subversion, Jira, Hudson, Maven, Nexus).  Integrated SCM Technology with development and delivery of SOA applications and services.  Maintaining documentation and completing projects related to improving and automating the use of processes and technologies based on industry standards and best practices. Performed operational and on-call pager rotation duties consisting of managing the configuration and ensuring reproducibility of over 90 in house developed applications and deployment of these apps into a large variety of platforms and environments.",
+            "title": "Software Configuration Management Analyst - Medavie Bluecross - 2006 to 2011"
+        }
+    ]
+}
